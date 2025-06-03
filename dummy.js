@@ -24,6 +24,3 @@ class Dummy {
 // Example usage
 const dummy = new Dummy("SonarQube");
 dummy.greet();
-console.log("2 + 3 =", add(2, 3));
-console.log("Is 4 even?", isEven(4));
-
